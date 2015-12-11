@@ -14,7 +14,7 @@ int main (int argc, char *argv[])
 	char *nomfichier = NULL;
 	int option=0;
 	printf("-----------  Projet C  -----------\n");
-	printf("-----------  Thibaut-----------\n");
+	printf("-----------  Tibauo-----------\n");
 	switch(argc){
 		case 2 :
 			//l'utilisateur n'a entré que deux valeurs l'executable et l'option
